@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SatishB15/stats-section](https://github.com/SatishB15/stats-section)
-- Live Site URL: [https://stats-section.vercel.app/](https://stats-section.vercel.app/)
+- Live Site URL: [https://stats-section.vercel.app](https://stats-section.vercel.app/)
 
 ## My process
 
